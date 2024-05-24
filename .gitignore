@@ -2,6 +2,7 @@
 HeartFailure.xlsx
 Heart Failure.pdf
 Grid_results/
+Plots/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
